@@ -1,0 +1,1 @@
+## esta es una tienda online de camisetas hecha con PHP y MYSQL, utilizando MVC y POO.
